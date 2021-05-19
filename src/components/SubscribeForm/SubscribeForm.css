@@ -1,0 +1,42 @@
+.new_comment {
+  background-color: #9caea9;
+  padding: 1rem;
+  margin: 2rem auto;
+  width: 50rem;
+  max-width: 95%;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.new_comment button {
+  font: inherit;
+  cursor: pointer;
+  padding: 1rem 2rem;
+  border: 1px solid #788585;
+  background-color: #788585;
+  color: white;
+  border-radius: 12px;
+  margin-right: 1rem;
+}
+
+.new_comment button:hover,
+.new_comment button:active {
+  background-color: #788585;
+  border-color: #788585;
+}
+
+.new_comment button.alternative {
+  color: #38302e;
+  border-color: transparent;
+  background-color: transparent;
+}
+
+.new_comment button.alternative:hover,
+.new_comment button.alternative:active {
+  background-color: #9caea9;
+}
+
+.message {
+  text-align: center;
+  color: #38302e;
+}

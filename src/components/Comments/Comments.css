@@ -1,0 +1,14 @@
+.comment_form {
+  background-color: #ccdad1;
+  padding: 1rem;
+  margin: 2rem auto;
+  width: 50rem;
+  max-width: 95%;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.comment_date {
+  background-color: #6f6866;
+  color: white;
+}

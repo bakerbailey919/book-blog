@@ -1,0 +1,94 @@
+.title_container {
+  color: #38302e;
+  margin: 20px 35px 10px;
+  border-bottom: 2px solid #788585;
+  text-align: left;
+  position: relative;
+  z-index: 2;
+  line-height: 34px;
+  font-style: normal;
+  padding: 5px 0;
+  font-size: 32px;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.post_content {
+  margin: 20px 35px 10px;
+  text-align: left;
+  position: relative;
+  font-family: NHaasGroteskTXPro-55Rg;
+  font-size: 16px;
+  color: #38302e;
+  line-height: 22px;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  box-sizing: border-box;
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.genre_container,
+.author_container {
+  margin: 20px 35px 10px;
+  text-align: left;
+  position: relative;
+  font-family: NHaasGroteskTXPro-55Rg;
+  font-size: 16px;
+  color: #38302e;
+  line-height: 22px;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.image_container {
+  border-radius: 8px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  height: 20%;
+}
+
+.comment_button {
+  width: 50%;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 10px;
+  font-family: 'MintTypeProbaProRegular', sans-serif;
+  color: white;
+  background: #38302e;
+  height: 38px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.comment_container {
+  padding-bottom: 50px;
+}

@@ -1,0 +1,101 @@
+.card_container {
+  justify-content: center;
+  background-color: CCDAD1;
+  padding: 1rem;
+  margin: 2rem auto;
+  width: 80rem;
+  max-width: 95%;
+  border-radius: 12px;
+  text-align: center;
+  background: #ccdad1;
+}
+
+.card_title {
+  font-family: GrifinitoM;
+  font-size: 32px;
+  font-weight: 300;
+  margin-bottom: 30px;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.88;
+  letter-spacing: 0.5px;
+  color: 38302e;
+  text-align: center;
+}
+
+.title_container {
+  margin: 20px 35px 10px;
+  text-align: left;
+  position: relative;
+  z-index: 2;
+  line-height: 34px;
+  font-style: normal;
+  padding: 5px 0;
+  font-size: 32px;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.card_content {
+  margin: 20px 35px 10px;
+  text-align: left;
+  position: relative;
+  font-family: NHaasGroteskTXPro-55Rg;
+  font-size: 16px;
+  color: #38302e;
+  line-height: 22px;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  box-sizing: border-box;
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.image_container img {
+  border-radius: 8px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  height: 20%;
+}
+
+.body_container {
+  display: block;
+  box-sizing: border-box;
+  font-family: inherit;
+  font-size: 100%;
+  font-style: inherit;
+  font-weight: inherit;
+  line-height: 1.5;
+  color: #38302e;
+  text-align: left;
+}
+
+.body_paragraph {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-family: NHaasGroteskTXPro-55Rg;
+  font-size: 16px;
+  color: #38302e;
+  line-height: 22px;
+}
